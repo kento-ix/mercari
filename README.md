@@ -57,3 +57,12 @@ SELECT * FROM table_name
 ```
 exit
 ```
+
+## 5.Setup frontend
+
+### 1. Create react project in fronend directory
+```
+npx create-react-app . --template typescript
+```
+
+### 2. Create Dockerfile
