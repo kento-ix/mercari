@@ -2,7 +2,7 @@
 
 ### Project name
 
-shopping-test
+mercari
 
 ### The purpsse of this project
 
